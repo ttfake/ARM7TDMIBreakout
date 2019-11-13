@@ -1,2 +1,2 @@
 # ARM7TDMBBreakout
-This board hasn't been tested yet.
+This breakout board is for the ADuC7060 Microcontroller. The core is an ARM7TDMI. This board hasn't been tested yet.
